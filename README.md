@@ -1,7 +1,6 @@
 # WickChecker
 ⭐ Welcome 🥷
-
-
+<br>
 ⭐ FOR LINUX : [
 
 sudo apt-get update
