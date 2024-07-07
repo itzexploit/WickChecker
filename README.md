@@ -1,7 +1,7 @@
 # WickChecker
 ⭐ Welcome 🥷
 
-
+<img src="https://raw.githubusercontent.com/thebabayagakiller/WickChecker/main/wickchecker.png">
 
 ⭐ FOR LINUX : [
 
